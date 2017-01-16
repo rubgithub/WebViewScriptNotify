@@ -13,3 +13,8 @@ ________________________________________________________________________________
 <b>See in action<b><br><br>
 ![ScreenShot](https://raw.github.com/rubgithub/WebViewScriptNotify/master/webview.gif.gif)
 
+<br><br>
+<b>REFS</b>
+<br>
+https://msdn.microsoft.com/en-us/library/windows/apps/xaml/windows.ui.xaml.controls.webview.invokescriptasync.aspx https://msdn.microsoft.com/en-us/library/windows/apps/windows.ui.xaml.controls.webview.scriptnotify https://code.msdn.microsoft.com/windowsapps/Popup-Control-in-universel-700d46d4 http://stackoverflow.com/questions/36746705/how-can-i-move-the-mouse-in-a-uwp-app https://code.msdn.microsoft.com/windowsapps/Invoke-ScriptNotify-event-4e9e13a4 http://stackoverflow.com/questions/6041593/adding-click-event-via-addeventlistener-to-confirm-navigation-from-a-hyperlink/6042019#6042019
+
