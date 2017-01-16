@@ -6,3 +6,10 @@ pt-br<br>
 Este exemplo utiliza um script js que "interceptar" um clique direito em um link (tag <a>) e capturar o valor href
 
 ________________________________________________________________________________________________
+
+<b>Project Package.Appxmanifest configuration<b><br><br>
+![ScreenShot](https://raw.github.com/rubgithub/WebViewScriptNotify/master/package.appxmanifest.png)
+
+<b>See in action<b><br><br>
+![ScreenShot](https://raw.github.com/rubgithub/WebViewScriptNotify/master/webview.gif.gif)
+
